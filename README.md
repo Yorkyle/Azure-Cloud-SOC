@@ -7,7 +7,6 @@ In this project, I build a mini honeynet in Azure and ingest log sources from va
 
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
-- SecurityAlert (Log Analytics Alerts Triggered)
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
